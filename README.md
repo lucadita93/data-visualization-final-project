@@ -62,3 +62,4 @@ Dati della protezione civile disponibili qui:
 * [Color Palette Selector Adobe online ](https://coolors.co/1c5253-388659-00ce7f-33658a-86bbd8)
 * [How to build an app with Dash Plotly](https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)
 
+
